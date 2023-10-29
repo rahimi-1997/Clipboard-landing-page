@@ -40,7 +40,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/qrcodecomponent-N8upsG_XsB)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-DsVlFbxrBc)
 - Live Site URL: [Live Site](https://rahimi-1997.github.io/Clipboard-landing-page/)
 
 ## My process
@@ -48,12 +48,11 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ### Built with
 
 - HTML5 markup
-- Flexbox
 - Responsive Design
 
 ### What I learned
 
-A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet.
+Put your layout skills to the test with this HTML & CSS landing page challenge. This challenge includes a design for hover states.
 
 ## Author
 
